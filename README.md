@@ -15,12 +15,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MyProfilCookie&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MyProfilCookie&icon=1&color=1)](https://visitcount.itsvg.in)
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+
 
 
 
