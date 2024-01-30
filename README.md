@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-🔭 Je travaille actuellement sur le projet Azertype<br>🌱 J'apprends actuellement Python<br>📫 Comment me joindre MyProfilCookie@gmail.com<br>👩🏾‍🎓 Chez 3WA
+🔭 Je travaille actuellement sur le projet Azertype<br>🌱 J'apprends actuellement Python<br>📫 Comment me joindre MyProfilCookie@gmail.com<br>👩🏾‍🎓 
 
 
 ## 🌐 Socials:
