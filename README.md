@@ -20,9 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MyProfilCookie&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MyProfilCookie&label=Profile%20Views&color=0&icon=1&pretty=false" />
-</a>
-
 
 
