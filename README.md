@@ -17,7 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=MyProfilCookie&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MyProfilCookie&label=Profile%20Views&color=1&icon=6&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=MyProfilCookie&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
